@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
     <h1 align="center">Hi 👋, I'm David Agudelo</h1>
     <h3 align="center"> A passionate full stack developer from Colombia, and I'm studying software engineer at Universidad EAFIT </h3>
