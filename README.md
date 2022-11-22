@@ -13,7 +13,7 @@
 
 <div align="center">
     <h3> Languages I've worked with: </h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-originas.svg" title="HTML5" alt="HTML" width="25" height="25">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="25" height="25">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="25" height="25">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25" height="25">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" width="25" height="25">&nbsp;
