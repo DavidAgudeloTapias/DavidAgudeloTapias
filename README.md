@@ -9,7 +9,7 @@
 
 - 📍 I'm from Medellin, Colombia
 
-- 🧭 You can reach me by **davisagutapi107@gmail.com**
+- 🧭 You can reach me by **dagudelot@eafit.edu.co**
 
 - 🌴 I like to play videogames, watch series and sport games and also go to the gym.
 
