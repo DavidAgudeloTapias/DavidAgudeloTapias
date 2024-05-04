@@ -27,7 +27,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="40" height="40">&nbsp;
 </div>
 
-![DavidAgudeloTapias's Stats](https://github-readme-stats.vercel.app/api?username=DavidAgudeloTapias&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+<a href="https://github.com/DavidAgudeloTapias">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavidAgudeloTapias&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DavidAgudeloTapias&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
 ### 📒 Interact with me:
