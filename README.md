@@ -27,6 +27,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="40" height="40">&nbsp;
 </div>
 
+---
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/DavidAgudeloTapias">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavidAgudeloTapias&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
