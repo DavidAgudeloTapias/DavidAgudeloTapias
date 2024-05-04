@@ -27,7 +27,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="40" height="40">&nbsp;
 </div>
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<DavidAgudeloTapias>'s Stats](https://github-readme-stats.vercel.app/api?username=<DavidAgudeloTapias>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 ### 📒 Interact with me:
